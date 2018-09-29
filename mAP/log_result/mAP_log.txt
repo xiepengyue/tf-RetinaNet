@@ -1,0 +1,96 @@
+>>>>>1cls_anchor4_model_40817_nms:[0.400000]_s:[0.550000]:
+>>>>>1cls_anchor4_model_40817_nms:[0.400000]_s:[0.550000]:
+mAP: 0.0000
+<<<<<<<1cls_anchor4_model_40817_nms:[0.400000]_s:[0.550000]:
+mAP: 0.4384
+<<<<<<<1cls_448x672_a2_crop03_model_5_nms_t:[0.450000]_score_t:[0.450000]:
+mAP: 0.5078
+<<<<<<<1cls_448x672_a2_crop03_p06_n04_model_4_nms_t:[0.500000]_score_t:[0.400000]:
+<<<<<<<1cls_448x672_a2_crop03_p06_n04_model_4_nms_t:[0.500000]_score_t:[0.400000]:
+<<<<<<<1cls_448x672_a2_crop03_p06_n04_model_4_nms_t:[0.500000]_score_t:[0.400000]:
+mAP: 0.4707
+<<<<<<<1cls_448x672_6ssd_a2_model_6_nms_t:[0.350000]_score_t:[0.720000]:
+mAP: 0.5342
+<<<<<<<1cls_448x672_a2_flossmy_p05_n033_model_6_nms_t:[0.350000]_score_t:[0.750000]:
+<<<<<<<1cls_448x672_a2_flossmy_p05_n033_model_6_nms_t:[0.350000]_score_t:[0.750000]:
+mAP: 0.5873
+<<<<<<<1cls_448x672_6ssd_a2_alph095_model_6_nms_t:[0.400000]_score_t:[0.760000]:
+mAP: 0.6836
+<<<<<<<1cls_448x672_6ssd_a2_alph025_model_7_nms_t:[0.400000]_score_t:[0.500000]:
+mAP: 0.5944
+<<<<<<<1cls_448x672_6ssd_a2_alph095_adam_model_fitune_0_nms_t:[0.400000]_score_t:[0.760000]:
+mAP: 0.6960
+<<<<<<<1cls_448x672_6ssd_a2_1branch_model_7_nms_t:[0.400000]_score_t:[0.760000]:
+mAP: 0.6970
+<<<<<<<1cls_448x672_6ssd_a2_1branch_model_7_nms_t:[0.400000]_score_t:[0.760000]:
+mAP: 0.6687
+<<<<<<<1cls_448x672_6ssd_a2_1branch_model_7_nms_t:[0.400000]_score_t:[0.760000]:
+mAP: 0.9165
+<<<<<<<1cls_448x672_6ssd_a2_1branch_model_7_nms_t:[0.400000]_score_t:[0.760000]:
+mAP: 0.9743
+<<<<<<<1cls_448x672_6ssd_a2_1branch_model_11_nms_t:[0.400000]_score_t:[0.760000]:
+mAP: 0.7017
+<<<<<<<1cls_448x672_6ssd_a2_1branch_nop3_model_8_nms_t:[0.400000]_score_t:[0.650000]:
+mAP: 0.5732
+<<<<<<<1cls_448x672_6ssd_a3_1branch_nop3_model_7_nms_t:[0.400000]_score_t:[0.500000]:
+mAP: 0.4901
+<<<<<<<1cls_448x672_6ssd_a3_1branch_nop3_model_7_nms_t:[0.400000]_score_t:[0.650000]:
+mAP: 0.4410
+<<<<<<<1cls_448x672_5ssd_a4_1branch_nop3p7_data2_model_9_nms_t:[0.400000]_score_t:[0.700000]:
+mAP: 0.7161
+<<<<<<<1cls_448x672_5ssd_a4_1branch_nop3p7_data2_model_9_nms_t:[0.400000]_score_t:[0.700000]:
+mAP: 0.6084
+<<<<<<<1cls_448x672_5ssd_a4_1branch_nop3p7_data2_n04_model_13_nms_t:[0.400000]_score_t:[0.700000]:
+mAP: 0.7383
+<<<<<<<1cls_448x672_5ssd_a4_1branch_nop3p7_data2_n04_model_13_nms_t:[0.400000]_score_t:[0.700000]:
+mAP: 0.6491
+<<<<<<<1cls_448x672_5ssd_a4_1branch_nop3p7_data2_p045_n04_model_15_nms_t:[0.400000]_score_t:[0.700000]:
+mAP: 0.7504
+<<<<<<<1cls_448x672_5ssd_a4_1branch_nop3p7_data2_p045_n04_model_15_nms_t:[0.400000]_score_t:[0.700000]:
+mAP: 0.6622
+<<<<<<<1cls_448x672_5ssd_a4_1branch_nop3p7_data2_p055_n04_model_23_nms_t:[0.400000]_score_t:[0.700000]:
+mAP: 0.6215
+<<<<<<<1cls_448x672_5ssd_a4_1branch_nop3p7_data2_p055_n04_model_23_nms_t:[0.400000]_score_t:[0.700000]:
+mAP: 0.7082
+<<<<<<<1cls_224x320_5ssd_a5_1b_nop7_data2_p045_n04_alph098_smooth10_model_32_nms_t:[0.400000]_score_t:[0.760000]:
+mAP: 0.6222
+<<<<<<<1cls_224x320_5ssd_a5_1b_nop7_data2_p045_n04_alph098_smooth10_model_32_nms_t:[0.400000]_score_t:[0.700000]:
+mAP: 0.6426
+<<<<<<<1cls_224x320_5ssd_a5_1b_nop7_data2_p045_n04_alph098_smooth10_secloss_model_18_nms_t:[0.400000]_score_t:[0.700000]:
+<<<<<<<1cls_224x320_5ssd_a5_1b_nop7_data2_p045_n04_alph098_smooth10_secloss_model_18_nms_t:[0.400000]_score_t:[0.700000]:
+mAP: 0.6104
+<<<<<<<1cls_224x320_6ssd_a6_1b_nop7_data2_p05_n04_alph098_smooth10_model_21_nms_t:[0.400000]_score_t:[0.700000]:
+mAP: 0.7256
+<<<<<<<1cls_224x320_6ssd_a6_1b_nop7_data2_p05_n04_alph098_smooth10_secloss_model_20_nms_t:[0.400000]_score_t:[0.700000]:
+test_set_num:1842   mAP: 0.7214
+<<<<<<<1cls_224x320_6ssd_a6_1b_nop7_data2_p05_n04_alph098_smooth10_shufflenetv2_test_model_31_nms_t:[0.400000]_score_t:[0.700000]:
+test_set_num:1842   mAP: 0.6555
+<<<<<<<1cls_224x320_6ssd_a6_1b_nop7_data2_p05_n04_alph098_smooth10_shufflenetv2_test_model_41_nms_t:[0.400000]_score_t:[0.700000]:
+test_set_num:1842   mAP: 0.6616
+<<<<<<<1cls_224x320_6ssd_a6_1b_nop7_data2_p05_n04_alph098_smooth10_shufflenetv2_test_model_41_nms_t:[0.400000]_score_t:[0.700000]:
+test_set_num:1842   mAP: 0.6616
+<<<<<<<1cls_224x320_6ssd_a6_1b_nop7_data2_p05_n04_alph09_shufflenetv2_restore_model_18_nms_t:[0.400000]_score_t:[0.700000]:
+test_set_num:1842   mAP: 0.6652
+<<<<<<<1cls_224x320_6ssd_a6_1b_nop7_data2_p05_n04_alph09_shufflenetv2_restore_model_16_nms_t:[0.400000]_score_t:[0.700000]:
+test_set_num:1842   mAP: 0.6677
+<<<<<<<1cls_224x320_6ssd_a6_1b_nop7_data2_p05_n04_alph09_shufflenetv2_restore_model_15_nms_t:[0.400000]_score_t:[0.700000]:
+test_set_num:1842   mAP: 0.6647
+<<<<<<<1cls_224x320_6ssd_a6_1b_nop7_data2_p05_n04_alph09_shufflenetv2_restore_model_15_nms_t:[0.400000]_score_t:[0.700000]:
+test_set_num:5585   mAP: 0.5477
+<<<<<<<1cls_224x320_6ssd_a6_1b_nop7_data2_p05_n04_alph09_shufflenetv2_restore_model_16_nms_t:[0.400000]_score_t:[0.600000]:
+test_set_num:1842   mAP: 0.7091
+<<<<<<<1cls_224x320_6ssd_a6_1b_nop7_data2_p05_n04_alph09_shufflenetv2_restore_model_16_nms_t:[0.400000]_score_t:[0.600000]:
+test_set_num:5585   mAP: 0.6005
+<<<<<<<1cls_224x384_9RetinaNet_a3_1b_nop7_data2_p05_n04_alph095_Res50_model_12_nms_t:[0.400000]_score_t:[0.600000]:
+<<<<<<<1cls_224x384_9RetinaNet_a3_1b_nop7_data2_p05_n04_alph095_Res50_model_12_nms_t:[0.400000]_score_t:[0.600000]:
+test_set_num:1842   mAP: 0.7346
+<<<<<<<1cls_224x384_9RetinaNet_a3_1b_nop7_data2_p05_n04_alph095_Res50_model_12_nms_t:[0.400000]_score_t:[0.700000]:
+test_set_num:1842   mAP: 0.6985
+<<<<<<<1cls_224x384_9RetinaNet_a3_1b_nop7_data2_p05_n04_alph095_Res50_model_12_nms_t:[0.400000]_score_t:[0.700000]:
+test_set_num:5585   mAP: 0.5900
+<<<<<<<1cls_224x384_9RetinaNet_a3_1b_nop7_data2_p045_n04_alph098_Res50_model_2_nms_t:[0.400000]_score_t:[0.700000]:
+test_set_num:1842   mAP: 0.7482
+<<<<<<<1cls_224x384_9RetinaNet_a3_1b_nop7_data2_p045_n04_alph098_Res50_model_2_nms_t:[0.400000]_score_t:[0.700000]:
+test_set_num:5585   mAP: 0.6539
+<<<<<<<1cls_224x320_5ssd_a5_1b_nop7_data2_p055_n05_alph098_finetune_model_1_nms_t:[0.400000]_score_t:[0.700000]:
+test_set_num:5585   mAP: 0.5962
